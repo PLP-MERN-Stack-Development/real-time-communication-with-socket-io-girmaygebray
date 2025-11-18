@@ -65,7 +65,7 @@ Build a real-time chat application using Socket.io that demonstrates bidirection
 5. Start the development servers:
    ```
    # In the server directory
-   npm run dev
+           
    
    # In the client directory
    npm run dev
